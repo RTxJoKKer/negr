@@ -1,0 +1,10 @@
+@font-face {
+    font-family: regular;
+    font-weight: 400;
+    src: url(./front/DMSans-Regular.ttf);
+}
+@font-face {
+    font-family: mont2;
+    font-weight: 700;
+    src: url(./front/DMSans-Bold.ttf);
+}
